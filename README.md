@@ -16,8 +16,9 @@ Para usar esta aplicación, primero instala las dependencias necesarias ejecutan
 
 ```sh
 npm install
-
+```
 Luego, para ejecutar la aplicación en modo de desarrollo, usa el siguiente comando:
 
 ```sh
 npm run dev
+```
